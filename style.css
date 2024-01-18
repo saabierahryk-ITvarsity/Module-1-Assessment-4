@@ -1,0 +1,57 @@
+img{ 
+    width: 30%;
+    height:30%;
+}
+
+td{
+    text-align: center;
+    height: 50%;
+    align: center;
+    font-family:  Arial, sans-serif;
+    font-size:large;
+}
+
+th{
+    background-color:#1a1a1a;
+}
+
+h1{
+    color:black;
+    font-family:verdana; 
+}
+
+
+h2{
+    color:red;
+    font-family:verdana; 
+}
+
+table, th, td {
+    border: 3px solid black;
+    border-collapse:collapse;
+  }
+
+table{
+    background-color: #ffffff;
+}
+
+td img{
+    max-width: 100%;
+    height:auto;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color:black;
+}
+
+a:hover {
+    color:red;
+  }
+
+ 
+
+
+
+  
